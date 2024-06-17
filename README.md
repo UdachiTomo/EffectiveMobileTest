@@ -1,1 +1,1 @@
-Тестовое задание для EffectiveMobiel
+Тестовое задание для EffectiveMobile
